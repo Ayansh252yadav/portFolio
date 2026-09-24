@@ -302,7 +302,7 @@ export const projects = [
     github:
       "https://github.com/Ayansh252yadav/ProfileHub",
 
-    liveDemo: null,
+    liveDemo: "https://commitcraft-git-main-stock11.vercel.app/auth",
 
     metrics: {
       type: "Full Stack Application",
@@ -426,7 +426,7 @@ export const projects = [
     github:
       "https://github.com/Ayansh252yadav",
 
-    liveDemo: null,
+    liveDemo: "https://java-meet-sphere.vercel.app/meeting/LKK7W9/live",
 
     metrics: {
       type: "Real-Time Communication Project",
@@ -435,6 +435,36 @@ export const projects = [
       frontend: "React",
     },
   },
+  {
+    title: "WatchWise",
+    description:
+      "A simple movie recommendation engine that uses AI-powered embeddings to recommend movies based on semantic similarity.",
+    image: "/projects/watchwise.png",
+    technologies: [
+      "Java",
+      "Spring Boot",
+      "Spring AI",
+      "Google GenAI",
+      "React"
+    ],
+    github: "https://github.com/Ayansh252yadav/FDE/tree/main/WatchWise",
+    live: ""
+  },
+  {
+    title: "Streaming AI",
+    description:
+      "An AI streaming application built with Spring Boot and Spring AI that streams OpenAI-generated responses to the client in real time.",
+    image: "/projects/streaming-ai.png",
+    technologies: [
+      "Java",
+      "Spring Boot",
+      "Spring AI",
+      "OpenAI",
+      "React"
+    ],
+    github: "https://github.com/Ayansh252yadav/FDE/tree/main/StreamingLec5",
+    live: ""
+  }
 ];
 
 
