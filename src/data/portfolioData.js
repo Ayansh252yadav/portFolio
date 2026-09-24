@@ -26,7 +26,7 @@ export const personalInfo = {
 
   leetcode: "https://leetcode.com/u/Ayansh252yadav/",
 
-  resumePath: "https://drive.google.com/file/d/1niqjJ_UaamqNQEY4aWNrbOjv-y2nAVud/view?usp=drive_link",
+  resumePath: "https://drive.google.com/file/d/1l4PXOM5AAtjK5_c2_mjygDIWH5mncICk/view?usp=drive_link",
 };
 
 
