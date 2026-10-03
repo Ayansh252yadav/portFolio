@@ -426,7 +426,7 @@ export const projects = [
     github:
       "https://github.com/Ayansh252yadav",
 
-    liveDemo: "https://java-meet-sphere.vercel.app/meeting/LKK7W9/live",
+    liveDemo: "https://java-meet-sphere.vercel.app/",
 
     metrics: {
       type: "Real-Time Communication Project",
