@@ -302,7 +302,7 @@ export const projects = [
     github:
       "https://github.com/Ayansh252yadav/ProfileHub",
 
-    liveDemo: "https://commitcraft-git-main-stock11.vercel.app/auth",
+    liveDemo: "https://profilehub-kappa.vercel.app/",
 
     metrics: {
       type: "Full Stack Application",
@@ -366,7 +366,7 @@ export const projects = [
     github:
       "https://github.com/Ayansh252yadav",
 
-    liveDemo: null,
+    liveDemo: "https://commitcraft-psi.vercel.app/auth",
 
     metrics: {
       type: "Backend Application",
